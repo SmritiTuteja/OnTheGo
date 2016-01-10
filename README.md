@@ -22,7 +22,7 @@ $ ./gradlew assembleDebug
 ```
 
 ### Developers
- [Smriti Tuteja](https://github.com/SmritiTuteja) <br>
+ [Smriti Tuteja](http://smritituteja.in/) <br>
  [Karthikeyan NG](http://www.intrepidkarthi.com) 
  
 
